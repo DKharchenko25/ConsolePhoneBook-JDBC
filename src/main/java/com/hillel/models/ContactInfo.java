@@ -12,6 +12,7 @@ public class ContactInfo {
     private int age;
     private String phoneNumber;
     private Address address;
+    private int addressId;
 
     @Override
     public String toString() {
